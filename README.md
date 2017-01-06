@@ -1,4 +1,6 @@
-# Steps to Reproduce Issue
+# at_exit is not executed from built jar
+
+## Steps to Reproduce Issue
 
 First install gems.
 ```
